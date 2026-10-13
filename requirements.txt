@@ -1,0 +1,5 @@
+mcp
+groq
+streamlit
+pandas
+python-dotenv

@@ -1,0 +1,14 @@
+[
+ {"name":"HP Pavilion 15","brand":"HP","category":"laptop","price":62990,"ram":16,"storage":512,"rating":4.3},
+ {"name":"Lenovo IdeaPad Slim 5","brand":"Lenovo","category":"laptop","price":58990,"ram":16,"storage":512,"rating":4.4},
+ {"name":"ASUS Vivobook 15","brand":"ASUS","category":"laptop","price":54990,"ram":16,"storage":512,"rating":4.1},
+ {"name":"Acer Aspire 7","brand":"Acer","category":"laptop","price":64990,"ram":16,"storage":512,"rating":4.2},
+ {"name":"Dell Inspiron 15","brand":"Dell","category":"laptop","price":68990,"ram":16,"storage":1024,"rating":4.3},
+ {"name":"MSI Modern 14","brand":"MSI","category":"laptop","price":49990,"ram":8,"storage":512,"rating":4.0},
+ {"name":"HP 15s","brand":"HP","category":"laptop","price":44990,"ram":8,"storage":512,"rating":4.2},
+ {"name":"Lenovo LOQ 15","brand":"Lenovo","category":"laptop","price":69990,"ram":16,"storage":512,"rating":4.5},
+ {"name":"ASUS TUF A15","brand":"ASUS","category":"laptop","price":74990,"ram":16,"storage":512,"rating":4.4},
+ {"name":"Dell Vostro 3520","brand":"Dell","category":"laptop","price":71990,"ram":16,"storage":512,"rating":4.1},
+ {"name":"Apple MacBook Air M1","brand":"Apple","category":"laptop","price":67990,"ram":8,"storage":256,"rating":4.7},
+ {"name":"Acer Nitro V","brand":"Acer","category":"laptop","price":66990,"ram":16,"storage":1024,"rating":4.3}
+]
